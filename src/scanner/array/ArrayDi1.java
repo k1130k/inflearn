@@ -1,6 +1,6 @@
 package scanner.array;
 
-public class ArrayDi0 {
+public class ArrayDi1 {
 
     public static void main(String[] args) {
         // 2x3 2차원 배열을 만든다.
