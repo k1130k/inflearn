@@ -1,4 +1,4 @@
-package scanner.array;
+package array;
 
 public class Array1Ref1 {
     public static void main(String[] args) {

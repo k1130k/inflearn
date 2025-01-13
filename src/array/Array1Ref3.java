@@ -1,9 +1,10 @@
-package scanner.array;
+package array;
 
-public class Array1Ref4 {
+public class Array1Ref3 {
     public static void main(String[] args) {
 
-        int[] students = {90, 80, 70 ,60, 50, 40, 30, 20}; //배열 생성과 초기화
+        int[] students;
+        students = new int[] {90, 80, 70 ,60, 50}; //배열 생성과 초기화
 
         //변수 값 사용
 
